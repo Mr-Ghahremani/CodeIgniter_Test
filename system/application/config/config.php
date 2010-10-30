@@ -11,7 +11,7 @@
 |	http://example.com/
 |
 */
-$config['base_url']	= "http://localhost:10080/CodeIgniter_1.7.2/";
+$config['base_url']	= "http://localhost/CodeIgniter_Test/";
 
 /*
 |--------------------------------------------------------------------------
